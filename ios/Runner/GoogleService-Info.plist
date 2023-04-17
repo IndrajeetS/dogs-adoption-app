@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>784276635599-jkfouchj0pbaj4l6f97gabkt1maoo27o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.784276635599-jkfouchj0pbaj4l6f97gabkt1maoo27o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBagydnM8gm8w2xQEGyHQlREOEX3oK9fIY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>784276635599</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.eatwithnymble.com.nymbleApp</string>
+	<key>PROJECT_ID</key>
+	<string>nymble-s-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nymble-s-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:784276635599:ios:9f3b72c1ad690f3ff89cba</string>
+</dict>
+</plist>

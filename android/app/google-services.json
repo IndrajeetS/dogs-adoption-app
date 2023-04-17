@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784276635599",
+    "project_id": "nymble-s-app",
+    "storage_bucket": "nymble-s-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784276635599:android:576975190ef7e07cf89cba",
+        "android_client_info": {
+          "package_name": "app.eatwithnymble.com.nymble_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784276635599-k17ibn5u8icls97pnf4l346m5rk27n75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZzzbWiKdEml1oAwO0Ne9kUCqTm-ONJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784276635599-k17ibn5u8icls97pnf4l346m5rk27n75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
